@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b8c9d2-36d1-4f74-94e9-1d2c760db359" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,25 +25,30 @@
     <toolWindowToFront>false</toolWindowToFront>
   </component>
   <component name="ProjectId" id="1cbHDYjpP1FLzINHFCYbo5ryvn1" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -52,6 +56,12 @@
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Rpg_Game" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Player" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Player" />
+      <module name="Rpg_Game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -65,15 +75,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Player" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590957116899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1590957116899" />
+    <state width="1515" height="321" key="GridCell.Tab.0.bottom" timestamp="1591146125365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="321" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591146125365" />
+    <state width="1515" height="321" key="GridCell.Tab.0.center" timestamp="1591146125364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="321" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591146125364" />
+    <state width="1515" height="321" key="GridCell.Tab.0.left" timestamp="1591146125364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="321" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591146125364" />
+    <state width="1515" height="321" key="GridCell.Tab.0.right" timestamp="1591146125365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="321" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591146125365" />
+    <state width="1515" height="272" key="GridCell.Tab.1.bottom" timestamp="1591026759012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591026759012" />
+    <state width="1515" height="272" key="GridCell.Tab.1.center" timestamp="1591026759012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591026759012" />
+    <state width="1515" height="272" key="GridCell.Tab.1.left" timestamp="1591026759012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591026759012" />
+    <state width="1515" height="272" key="GridCell.Tab.1.right" timestamp="1591026759012">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="272" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591026759012" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1590955751771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590955751771" />
+    <state x="498" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590957318866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1590957318866" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Player.java</url>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="i" />
+        <watch expression="i1" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
